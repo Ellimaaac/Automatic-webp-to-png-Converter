@@ -1,2 +1,2 @@
-# .webp to .png script
+# .all to .png script
 
