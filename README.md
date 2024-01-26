@@ -1,2 +1,8 @@
-# .all to .png script
+# all to .png script
 
+.webp 
+.jpeg
+.dmp
+.dib
+
+become .png
