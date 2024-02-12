@@ -5,4 +5,4 @@
 .dmp
 .dib
 
-become .png
+all become .png
