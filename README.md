@@ -1,4 +1,4 @@
-# all to .png script
+# BatchFIle Repertory 
 
 .webp 
 .jpeg
