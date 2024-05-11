@@ -1,8 +1,9 @@
 # BatchFIle Repertory 
 
-.webp 
-.jpeg
-.dmp
-.dib
+# all become .png
+- .webp 
+- .jpeg
+- .dmp
+- .dib
 
-all become .png
+# " " become "_" in filename
