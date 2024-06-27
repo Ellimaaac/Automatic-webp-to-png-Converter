@@ -1,4 +1,4 @@
-# BatchFIle Repertory 
+# BatchFile Repertory 
 
 ## all become .png
 [webp_To_png](webp_To_png.bat)
