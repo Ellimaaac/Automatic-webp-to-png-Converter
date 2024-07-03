@@ -1,7 +1,7 @@
 # BatchFile Repertory 
 
 ## all become .png
-[webp_To_png](webp_To_png.bat)
+[allTo_png](webp_To_png.bat)
 - .webp 
 - .jpeg
 - .dmp
