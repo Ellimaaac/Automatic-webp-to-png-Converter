@@ -7,6 +7,6 @@
 - .dmp
 - .dib
 
-## " " become "_" in filename
+## " Blank " become "_" in filename
 [fileName_format](fileName_format.bat)
 - blinck or space become "_" to the filename
